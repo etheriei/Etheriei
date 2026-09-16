@@ -1,4 +1,5 @@
-<img width="900" height="240" alt="guinea_pigman" src="https://github.com/user-attachments/assets/886c0dd5-c547-4057-a8b5-dc8062f8fceb" />
+<img width="900" height="240" alt="guinea_pigman2" src="https://github.com/user-attachments/assets/8f0e4343-1077-4e51-b045-4e6a3b8ea121" />
+
 
 # Hi, I'm Brigitta 👋
 
