@@ -42,7 +42,7 @@ Independent UX audit covering **40 usability findings**, competitive benchmarkin
 
 My independent studio covering illustration, fine art, visual design and selected product design work.
 
-→ **[View my work](YOUR_PORTFOLIO_LINK)**
+→ **[View my work]([YOUR_PORTFOLIO_LINK](https://www.papermark.com/view/cmt2u7n1v0003jm04nuva29ru))**
 
 ---
 
