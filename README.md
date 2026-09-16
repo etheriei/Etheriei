@@ -46,7 +46,7 @@ Japan &nbsp;|&nbsp; Travelling &nbsp;|&nbsp; Food &nbsp;|&nbsp; Anime &nbsp;|&nb
 | | |
 |---|---|
 | 🌐 Website | [brigittavanbesouwfineart](https://sites.google.com/view/brigittavanbesouwfineart/home) |
-| 📁 Portfolio | [View PDF](https://drive.google.com/file/d/1PfhLj-078bdeIJsbX2qX-ZiEVEMvqL1R/view?usp=drive_link) |
+| 📁 Portfolio | [View PDF]([https://drive.google.com/file/d/1PfhLj-078bdeIJsbX2qX-ZiEVEMvqL1R/view?usp=drive_link](https://www.papermark.com/view/cmt2u7n1v0003jm04nuva29ru)) |
 | 📧 Email | [hello.gitasart@gmail.com](mailto:hello.gitasart@gmail.com) |
 | 🔗 Links | [Linktree](https://linktr.ee/GitasArt) |
 
