@@ -1,4 +1,5 @@
-![Guinea pig Pac-Man](./assets/guinea_pigman.gif)
+![Guinea pig Pac-Man](./assets/guinea_pigman.gif<img width="900" height="240" alt="guinea_pigman" src="https://github.com/user-attachments/assets/92b3b3b3-66e9-4160-9b07-b861b9d445fc" />
+)
 # Hi, I'm Brigitta 👋
 
 ### Product Designer · Visual Designer · Illustrator
