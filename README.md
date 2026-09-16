@@ -9,6 +9,7 @@ My work sits somewhere between **product thinking, UI, visual design and illustr
 > Making things feel clear, considered and properly shaped. Not just decorated.
 
 [LinkedIn](YOUR_LINK) · [Portfolio](YOUR_LINK) · [Instagram](YOUR_LINK) · [Ko-fi](YOUR_LINK)
+<img width="900" height="220" alt="guinea_pigman" src="https://github.com/user-attachments/assets/e4b7268e-c023-4c7f-a4c7-6869cf16e6a1" />
 
 ---
 
